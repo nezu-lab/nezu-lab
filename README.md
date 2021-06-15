@@ -1,3 +1,3 @@
-##¡Bienvenido a mi GitHub!
+#¡Bienvenido a mi GitHub!
 **Actualmente programo en estos lenguajes ^-^**
-![Python](http://assets.stickpng.com/images/5848152fcef1014c0b5e4967.png)
+![Python](https://raw.githubusercontent.com/nezu-lab/nezu-lab/main/python.png)
