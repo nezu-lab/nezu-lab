@@ -1,4 +1,4 @@
-<h1>¡Bienvenido a mi GitHub!</h1>
+<h1 align=center>¡Bienvenido a mi GitHub!</h1>
 **Actualmente programo en estos lenguajes ^-^**
 </br>
 <img src="https://raw.githubusercontent.com/nezu-lab/nezu-lab/main/golang.png" alt="Go" width="75">
