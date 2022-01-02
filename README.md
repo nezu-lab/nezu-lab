@@ -1,5 +1,5 @@
 <div>
-  <h1 style="text-align:center">NEZU-LAB</h1>
+  <h1 style="align:center">NEZU-LAB</h1>
   <p>Solo soy un programador común y corriente que sabe programar en estos lenguajes :)</p>
   <br/>
 </div>
