@@ -1,8 +1,6 @@
 <div>
   <center><h1>NEZU-LAB</h1></center>
 </div>
-<div style="display:inline-block" markdown="1">
-  ![Python](python.png)
-  ![C++](https://github.com/nezu-lab/nezu-lab/blob/main/cpp.png)
-  ![Go](golang.png)
+<div style="display:inline-block">
+  <img alt"Python3" href="https://raw.githubusercontent.com/nezu-lab/nezu-lab/main/python.png"/>
 </div>
