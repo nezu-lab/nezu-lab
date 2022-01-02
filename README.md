@@ -3,6 +3,6 @@
 </div>
 <div style="display:inline-block">
   ![Python](python.png)
-  ![C++](cpp.png)
+  ![C++](https://github.com/nezu-lab/nezu-lab/blob/main/cpp.png)
   ![Go](golang.png)
 </div>
