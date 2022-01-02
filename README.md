@@ -1,6 +1,6 @@
 <div>
   <center><h1>NEZU-LAB</h1></center>
-  <p style="font-family:courier">Solo soy un programador común y corriente que sabe programar en estos lenguajes :)</p>
+  <p>Solo soy un programador común y corriente que sabe programar en estos lenguajes :)</p>
   <br/>
 </div>
 <div style="display:inline-block">
